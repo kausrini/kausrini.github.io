@@ -18,6 +18,8 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://kausrini.github.io"
 
+theme: jekyll-theme-midnight
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
