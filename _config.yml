@@ -1,8 +1,3 @@
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
-
 # --- Required options --- #
 
 # Name of website
@@ -14,15 +9,15 @@ author: Kaushik Srinivasan
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://kausrini.github.io"
+#  Resources:
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://kausrini.github.io"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar-icon.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -39,7 +34,7 @@ round-avatar: true
 social-network-links:
   github: kausrini
   twitter: kausrini
-  linkedin: daattali
+  linkedin: kausrini
 #  email: "someone@example.com"
 #  facebook: 
 #  medium: yourname
@@ -125,16 +120,16 @@ footer-link-col: "#404040"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-SKJ78SN2N9"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "G-SKJ78SN2N9"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-MWF7CB6"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
