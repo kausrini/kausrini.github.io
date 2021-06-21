@@ -1,1 +1,1 @@
-Links to Original Theme -> https://github.com/daattali/beautiful-jekyll
+Source code for Kaushik's personal website
