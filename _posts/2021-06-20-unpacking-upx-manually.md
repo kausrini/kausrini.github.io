@@ -4,7 +4,7 @@ title: Unpacking UPX Manually
 subtitle: A Primer on Unpacking UPX
 cover-img: /assets/img/2021_06_19/Cover.JPG
 thumbnail-img: /assets/img/2021_06_19/Thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/2021_06_19/Cover.JPG
 tags: [malware, analysis, upx, unpacking]
 ---
 
