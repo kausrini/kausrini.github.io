@@ -24,7 +24,7 @@ Obviously, I was excited when I saw these since the second half of the above API
 
 But this was not the case. The above API calls were made by a module that was inserted into the code by the compiler (like MSVC). I was not the first person to be disappointed by this as you can see StackExchange posts [2] from 2015, jumping to the same conclusions as I did.
 
-So, it is useful to recognize such compiler inserted code stubs while reversing a malware, to speed up your analysis and ignore API calls that are no relevant. In this post, I am going to discuss about this compiler inserted stub, how it looks and briefly provide an overview on its purpose.
+So, it is useful to recognize such compiler inserted code stubs while reversing a malware, to speed up your analysis and ignore API calls that are not relevant. In this post, I am going to discuss about this compiler inserted stub, how it looks and briefly provide an overview on its purpose.
 
 # Disassembly
 ![__security_init_cookie](/assets/img/2022_11_02/SecurityInitCookie.jpg){: .mx-auto.d-block :}
