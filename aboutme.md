@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you might like me
+subtitle: Incident Response, Malware Analysis, Digital Forensics
 ---
 
-My name is Kaushik Srinivasan and I've worked in Information Security for around 3 years (as of May, 2021). 
+Hey All,
 
-I've primarily worked on Incident Response for cloud and corporate environments. As part of these roles, I am developing my Digital Forensics and Malware Analysis skillset.  
+I am Kaushik Srinivasan and I have been working in Information Security since 2018.
 
-I have started to improve on my Malware Analysis/Reverse Engineering capabilities and will be using this platform to document my journey. None of the content mentioned in this blogpost will be related to my employment and is intended solely for educational purposes. 
+I have primarily worked on Incident Response for cloud environments (Amazon Web Services) and for  corporate environments (Amazon and LinkedIn). 
 
-Kaushik
+I will be using this platform to document my malware analysis journey. None of the content mentioned in this blogpost will be related to my employment and is intended solely for educational purposes. 
